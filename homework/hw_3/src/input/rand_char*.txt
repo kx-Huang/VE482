@@ -1,0 +1,9 @@
+c=G
+f=D
+d=F
+g=C
+i=A
+a=I
+h=B
+e=E
+b=H

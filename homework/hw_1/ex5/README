@@ -1,0 +1,12 @@
+- file: ex5.sh
+- author: Kexuan Huang
+- date: 2021.10.3
+- description: shell script for Minix 3.2.1
+- usage:
+  1. Create a new user called "Michael"
+  2. List all the currently running processes
+  3. Display the characteristics of the CPU and the available memory
+  4. Redirect some random output into two different files
+  5. Concatenate the two previous files
+  6. Read the content of the resulting file as hexdecimal values
+  7. Use a single command to find all the files in `/usr/src` with the word `semaphore` in their name and containing the word `ddekit_sem_downues`

