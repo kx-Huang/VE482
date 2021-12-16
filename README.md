@@ -6,10 +6,7 @@ Coursework for VE482 Operating System @UM-SJTU Joint Institute
 
 ## Basic Info
 
-Professor: Manuel Charlemagne
-
-Semester: 2021FA
-
-Acknowledgement: Great thanks to the Professor, TAs, my coding pair [Weili Shi](https://github.com/WillyKidd) & project teammates and people who helped me
-
-Honor Code: For JI students who is taking this course, you are free to use this repo as long as abiding by Honor Code
+- Professor: Manuel Charlemagne
+- Semester: 2021FA
+- Acknowledgement: Great thanks to the Professor, TAs, my coding pair [Weili Shi](https://github.com/WillyKidd) & project teammates and people who helped me
+- Honor Code: For JI students who is taking this course, you are free to use this repo as long as abiding by Honor Code
