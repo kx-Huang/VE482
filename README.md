@@ -2,9 +2,7 @@
 
 Coursework for VE482 Operating System @UM-SJTU Joint Institute
 
-![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.VE482&left_color=gray&right_color=blue)
-
-## Basic Info
+## Basic Info ![](https://visitor-badge.glitch.me/badge?page_id=kx-Huang.VE482&left_color=gray&right_color=blue)
 
 - Professor: Manuel Charlemagne
 - Semester: 2021FA
