@@ -1,4 +1,4 @@
-# VE482 *Operating System* Coursework
+# VE482: *Operating System* Coursework
 
 Coursework for VE482 *Operating System* @UM-SJTU Joint Institute.
 
