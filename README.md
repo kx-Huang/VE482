@@ -10,4 +10,4 @@ Coursework for VE482 *Operating System* @UM-SJTU Joint Institute.
 - Honor Code: For JI students who is taking this course, feel free to use this Repo as long as abiding by Honor Code.
 - Remarks: The solutions provided are not guarantee to be 100% correct, please be aware when referencing.
 
-**Happy Coding and hope you enjoy the course!**
+**Happy coding and enjoy the course!**
